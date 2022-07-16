@@ -577,6 +577,16 @@ MESSAGE SECTION
 
 }
 
+@media screen and (max-width:768px) {
+    .slider-item>span {
+        line-height: 65px;
+    }
+
+    .spa-row {
+        flex-direction: column;
+    }
+}
+
 .content>p {
     font-size: 20px;
     font-family: 'ProximaNovaA-Bold';
