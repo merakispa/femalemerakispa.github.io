@@ -22,7 +22,8 @@
 }
 
 body {
-    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-family: 'DM Sans', sans-serif;
+
     font-size: 13px;
     line-height: 20px;
     position: relative;
@@ -128,7 +129,7 @@ h1, h2, h3, h4, h5, h6 {
     position: relative;
     padding: 0 0 10px 0;
     font-weight: normal;
-    font-family: 'Roboto', serif;
+    /* font-family: 'Roboto', serif; */
     line-height: 140% !important;
     color: #f3392f;
 }
@@ -158,7 +159,7 @@ h6 {
 }
 
 .lead {
-    font-family: 'Raleway', Arial, sans-serif !important;
+    /* font-family: 'Raleway', Arial, sans-serif !important; */
     font-size: 18px;
     margin: 15px 0;
     padding: 0;
@@ -248,7 +249,7 @@ button.navbar-toggle {
 .navbar-nav>li>a {
     color: #fff !important;
     font-size: 14px;
-    font-family: 'ProximaNovaA-Semibold';
+    /* font-family: 'ProximaNovaA-Semibold'; */
 }
 
 .navbar-nav>li>a:hover {
@@ -298,7 +299,7 @@ i.fa.fa-shopping-cart {
     font-size: 24px;
     font-weight: 800;
     text-transform: uppercase;
-    font-family: 'ProximaNova-Extrabld';
+    /* font-family: 'ProximaNova-Extrabld'; */
     color: #fff;
     margin: 10px 0;
 }
@@ -307,7 +308,7 @@ i.fa.fa-shopping-cart {
     font-size: 55px;
     font-weight: 800;
     text-transform: uppercase;
-    font-family: 'ProximaNova-Extrabld';
+    /* font-family: 'ProximaNova-Extrabld'; */
     color: #ef7fc1;
     padding: 10px 0;
     margin: 0;
@@ -323,7 +324,7 @@ i.fa.fa-shopping-cart {
 }
 
 .slider-item>p {
-    font-family: 'ProximaNovaA-Regular';
+    /* font-family: 'ProximaNovaA-Regular'; */
     font-size: 14px;
     font-weight: 400;
     color: #fff;
@@ -357,13 +358,13 @@ Purilfy section
     padding: 0;
     color: #fff;
     font-weight: 700;
-    font-family: 'ProximaNovaA-Bold';
+    /* font-family: 'ProximaNovaA-Bold'; */
     font-size: 26px;
     margin-bottom: 15px;
 }
 
 .purifliy-item>p {
-    font-family: 'ProximaNovaA-Regular';
+    /* font-family: 'ProximaNovaA-Regular'; */
     font-size: 15px;
     line-height: 24px;
 }
@@ -385,7 +386,7 @@ OFFER SECTION
     padding: 0;
     color: #fff;
     font-weight: 700;
-    font-family: 'ProximaNovaA-Bold';
+    /* font-family: 'ProximaNovaA-Bold'; */
     font-size: 26px;
     margin-bottom: 15px;
 }
@@ -394,7 +395,7 @@ OFFER SECTION
     font-size: 16px;
     color: #fff;
     display: block;
-    font-family: 'ProximaNovaA-Semibold';
+    /* font-family: 'ProximaNovaA-Semibold'; */
     margin: 0;
     padding: 0;
 }
@@ -404,7 +405,7 @@ OFFER SECTION
     color: #fff;
     font-size: 16px;
     text-transform: uppercase;
-    font-family: 'ProximaNovaA-Semibold';
+    /* font-family: 'ProximaNovaA-Semibold'; */
     padding: 10px 30px;
     display: inline-block;
     margin-top: 10px;
@@ -430,7 +431,7 @@ OFFER SECTION
 
 .section-title {
     color: #e42a97;
-    font-family: 'ProximaNovaA-Semibold';
+    /* font-family: 'ProximaNovaA-Semibold'; */
     font-weight: 600;
     font-size: 30px;
 
@@ -451,7 +452,7 @@ OFFER SECTION
 
 .benefit-item>h3 {
     color: #474747;
-    font-family: 'ProximaNovaA-Semibold';
+    /* font-family: 'ProximaNovaA-Semibold'; */
     font-weight: 600;
 }
 
@@ -470,13 +471,13 @@ OFFER SECTION
 
 .benefit-item>h2 {
     color: #e42a97;
-    font-family: 'ProximaNovaA-Bold';
+    /* font-family: 'ProximaNovaA-Bold'; */
     font-size: 18px;
     font-weight: 700;
 }
 
 .benefit-item>p {
-    font-family: 'ProximaNovaA-Regular';
+    /* font-family: 'ProximaNovaA-Regular'; */
     font-size: 15px;
     line-height: 24px;
     color: #5e5e5e;
@@ -519,14 +520,14 @@ MESSAGE SECTION
 
 .message-section h2 {
     font-size: 30px;
-    font-family: 'ProximaNovaA-Bold';
+    /* font-family: 'ProximaNovaA-Bold'; */
     font-weight: 700;
     text-align: center;
     color: #e42a97
 }
 
 .message-section p {
-    font-family: 'ProximaNovaA-Regular';
+    /* font-family: 'ProximaNovaA-Regular'; */
     font-size: 16px;
     font-weight: 400;
     line-height: 26px;
@@ -572,7 +573,7 @@ MESSAGE SECTION
 .content>span {
     font-size: 20px;
     color: #777777;
-    font-family: 'ProximaNovaA-Regular';
+    /* font-family: 'ProximaNovaA-Regular'; */
     font-weight: 400;
 
 }
@@ -589,7 +590,7 @@ MESSAGE SECTION
 
 .content>p {
     font-size: 20px;
-    font-family: 'ProximaNovaA-Bold';
+    /* font-family: 'ProximaNovaA-Bold'; */
     font-weight: 700;
     text-align: left;
     color: #e42a97;
@@ -610,7 +611,7 @@ CLIENT SECTION
     color: #e53099;
     font-weight: 700;
     font-size: 34px;
-    font-family: 'ProximaNovaA-Bold';
+    /* font-family: 'ProximaNovaA-Bold'; */
     margin: 0;
     padding: 0;
 }
@@ -618,7 +619,7 @@ CLIENT SECTION
 .client-section .title-cap {
     font-size: 16px;
     color: #474747;
-    font-family: 'ProximaNovaA-Regular';
+    /* font-family: 'ProximaNovaA-Regular'; */
     font-weight: 400;
     display: block;
     margin-bottom: 30px;
@@ -654,7 +655,7 @@ i.fa.fa-quote-left {
 .client-item p {
     font-size: 14px;
     color: #474747;
-    font-family: 'ProximaNovaA-Regular';
+    /* font-family: 'ProximaNovaA-Regular'; */
     font-weight: 400;
 }
 
@@ -663,7 +664,7 @@ i.fa.fa-quote-left {
 .client-item>h3 {
     color: #e42a97;
     font-weight: 600;
-    font-family: 'ProximaNovaA-Semibold';
+    /* font-family: 'ProximaNovaA-Semibold'; */
     font-size: 16px;
     position: relative;
     top: -40px;
@@ -695,7 +696,7 @@ i.fa.fa-quote-left {
     color: #e53099;
     font-weight: 700;
     font-size: 34px;
-    font-family: 'ProximaNovaA-Bold';
+    /* font-family: 'ProximaNovaA-Bold'; */
     margin: 0;
     padding: 0;
 }
@@ -703,7 +704,7 @@ i.fa.fa-quote-left {
 .blog-section .title-cap {
     font-size: 16px;
     color: #474747;
-    font-family: 'ProximaNovaA-Regular';
+    /* font-family: 'ProximaNovaA-Regular'; */
     font-weight: 400;
     display: block;
     margin-bottom: 30px;
@@ -733,7 +734,7 @@ i.fa.fa-quote-left {
     font-size: 18px;
     font-weight: 700;
     color: #e53099;
-    font-family: 'ProximaNovaA-Bold';
+    /* font-family: 'ProximaNovaA-Bold'; */
     margin-bottom: 10px;
 }
 
@@ -742,7 +743,7 @@ i.fa.fa-quote-left {
 .blog-content>p {
     font-size: 14px;
     color: #474747;
-    font-family: 'ProximaNovaA-Regular';
+    /* font-family: 'ProximaNovaA-Regular'; */
     font-weight: 400;
     line-height: 24px;
     display: block;
@@ -769,7 +770,7 @@ TABLE SECTION
     color: #fff;
     font-weight: 700;
     font-size: 34px;
-    font-family: 'ProximaNovaA-Bold';
+    /* font-family: 'ProximaNovaA-Bold'; */
     margin: 0;
     padding: 0;
 }
@@ -777,7 +778,7 @@ TABLE SECTION
 .table-section .section-cap {
     font-size: 16px;
     color: #fff;
-    font-family: 'ProximaNovaA-Regular';
+    /* font-family: 'ProximaNovaA-Regular'; */
     font-weight: 400;
     display: block;
     margin-bottom: 30px;
@@ -801,14 +802,14 @@ TABLE SECTION
     font-size: 50px;
     font-weight: 600;
     color: #303030;
-    font-family: 'ProximaNovaA-Semibold';
+    /* font-family: 'ProximaNovaA-Semibold'; */
     margin: 0;
     padding: 0;
 }
 
 .table-item>h2>sup {
     color: #303030;
-    font-family: 'ProximaNovaA-Regular';
+    /* font-family: 'ProximaNovaA-Regular'; */
     font-weight: 400;
 }
 
@@ -816,7 +817,7 @@ TABLE SECTION
     font-size: 20px;
     font-weight: 700;
     color: #303030;
-    font-family: 'ProximaNovaA-Bold';
+    /* font-family: 'ProximaNovaA-Bold'; */
     text-transform: uppercase;
     margin: 0;
     padding: 0;
@@ -845,7 +846,7 @@ TABLE SECTION
     font-size: 16px;
     line-height: 30px;
     color: #5e5e5e;
-    font-family: 'ProximaNovaA-Regular';
+    /* font-family: 'ProximaNovaA-Regular'; */
     list-style: none
 }
 
@@ -942,7 +943,7 @@ FOOTER SECTION
 .copyright>p, .copyright>p a {
     color: #e53099;
     font-weight: 600;
-    font-family: 'ProximaNovaA-Regular';
+    /* font-family: 'ProximaNovaA-Regular'; */
     font-size: 16px;
 }
 
